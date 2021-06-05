@@ -55,7 +55,7 @@
   isHome: false,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2021-06-05 18:46:28'
+  postUpdate: '2021-06-05 19:34:37'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -181,7 +181,7 @@ var pjax = new Pjax({
 document.addEventListener('pjax:complete', function () {
   window.refreshFn()
 
-  document.querySelectorAll('script[data-pjax]').forEach(item => {
+  document.querySelectorAll('script[data-pjax], .pjax-reload script').forEach(item => {
     const newScript = document.createElement('script')
     const content = item.text || item.textContent || item.innerHTML || ""
     Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
