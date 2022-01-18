@@ -379,13 +379,6 @@
   </url>
   
   <url>
-    <loc>https://www.syao.cc/tags/%E5%A4%8F%E5%A8%83/</loc>
-    <lastmod>2022-01-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.syao.cc/tags/%E5%AD%90%E9%99%B5/</loc>
     <lastmod>2022-01-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -393,7 +386,7 @@
   </url>
   
   <url>
-    <loc>https://www.syao.cc/tags/%E5%AF%92%E6%9C%88/</loc>
+    <loc>https://www.syao.cc/tags/%E5%A4%8F%E5%A8%83/</loc>
     <lastmod>2022-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -401,6 +394,13 @@
   
   <url>
     <loc>https://www.syao.cc/tags/%E8%87%AA%E7%94%B1/</loc>
+    <lastmod>2022-01-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.syao.cc/tags/%E5%AF%92%E6%9C%88/</loc>
     <lastmod>2022-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -484,14 +484,14 @@
   </url>
   
   <url>
-    <loc>https://www.syao.cc/tags/%E8%8D%89/</loc>
+    <loc>https://www.syao.cc/tags/%E9%97%B2%E8%B0%88/</loc>
     <lastmod>2022-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.syao.cc/tags/%E9%97%B2%E8%B0%88/</loc>
+    <loc>https://www.syao.cc/tags/%E8%8D%89/</loc>
     <lastmod>2022-01-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
